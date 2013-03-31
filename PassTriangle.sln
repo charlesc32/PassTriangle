@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassTriangle", "PassTriangle\PassTriangle.csproj", "{C913BEFB-D439-4E6A-A8F7-D7013EFFF2C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassTriangleTests", "PassTriangleTests\PassTriangleTests.csproj", "{496A8AD7-104E-4D72-9E97-3049041ACAEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C913BEFB-D439-4E6A-A8F7-D7013EFFF2C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C913BEFB-D439-4E6A-A8F7-D7013EFFF2C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C913BEFB-D439-4E6A-A8F7-D7013EFFF2C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C913BEFB-D439-4E6A-A8F7-D7013EFFF2C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{496A8AD7-104E-4D72-9E97-3049041ACAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496A8AD7-104E-4D72-9E97-3049041ACAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496A8AD7-104E-4D72-9E97-3049041ACAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496A8AD7-104E-4D72-9E97-3049041ACAEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
